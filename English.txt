@@ -1,0 +1,79 @@
+Found newImport.txt!\nosu!player will now shutdown. On the next startup osu!player will prompt you to select the song path!
+The font that osu!player is using is not installed on your PC. osu!player tries now to download the font from the server and also tries to open it, so you can install it. After you pressed intall and the process finished, please restart osu!player
+The osu!player cannot download the font file, please make sure you are connected to the internet.
+English.txt doesn't exist in your lang folder. Also the English.txt file couldn't be downloaded. Please download the language via the osu!player installer. Also make sure, that you are connected to the internet. The osu!player tries now to run.
+osu!player already running
+osu!player is already running on this computer. Please check your Task-Manager if the app is running. If so, close it via the Task Manager and restart the app.
+Error starting osu!player
+Something wrong happened. The Blacklist couldn't load probably, please restart osu!player.\nIf the problem keeps happening please report it in the Forum.
+Language file missing
+The language file '{0}' doesn't exist. Switching back to english
+Language 'English' not found.
+Language english could not be found. Please download the language pack via the installer. Do you want to open the Forum Thread?
+Language not supported
+Your language is not supported in this version, please check the version file, if all lines are there. osu!player will now close and will use english on next startup.
+Type to search
+Open Settings
+Toggle playlist
+Minimize osu!player
+Press this to go to window mode or back to Fullscreen-Mode.
+Close osu!player
+Volume
+Toggle shuffle
+Toogle repeat
+Playbackspeed
+Open Playlist editor to start favoriting songs
+You can't favorise a song, if you didn't selected a Playlist where you want to add the song. To resolve this issue please open the Playlisteditor (4 Bars with note in the topright corner). Then select a custom playlist, if you don't have any custom Playlists, songs will be added to the Favorited playlist instead.
+Settings
+Updates and tools
+Hotkey settings
+Startup song
+First of all songs
+Last played song
+Random song
+Specific song
+Disable notifications
+Always on top
+Enable OBS support
+Enable Audio-Visualizer
+Username
+Remove username
+Language
+Blacklist
+Songs loaded {0}
+Songs folder {0}
+osu!player by {0}
+Check for updates
+Open language editor
+Export current song
+Export songs to directory
+Clear Favorites
+Reset osu!player
+Are you sure you want to clear all your imported songs (This won't delete them in the Songs folder). If you continue you clear your playlist, favorites, custom playlists and some of your settings. After a restart you need to select your Songs folder again.
+By setting your username you agree, to send your current playing song and version to the server. If you don't want this press no and leave this field blank.
+Username registered
+Username already exist
+No special characters are allowed in your username.
+Username removed and you don't send anymore song data to the osu!player server
+Play/Pause
+Previous song
+Next song
+Volume down
+Volume up
+Pro Tipp: Hold ALT, while pressing a hotkey! Otherwise it won't work
+Playlist/Favorites
+Playlist
+Playlist name
+Add playlist
+Add current playing song to playlist
+Delete selcted playlist
+Playlist already exist
+Playist {0} already exist, please choose a other name for your new playlist
+The name for the new playlist is invalid. It needs at least one character
+You can't delete the favorites playlist!
+Are you sure you want to delete the playlist {0}? \n\nThis cannot be undone!
+osu!player updated successfull
+osu!player was successfully updated to version {0}, do you want to open the patchnotes?
+osu!player is up to date
+Update available
+An update for the osu!player is available, do you want to download it?

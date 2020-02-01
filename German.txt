@@ -1,0 +1,79 @@
+newImport.txt wurde gefunden!\nosu!player wird nun schließen, beim nächsten Neustart wirst du aufgefordert dein osu!songs folder zu wählen!
+Die Schriftart, die osu!player nutzt wurde nicht auf deinen PC gefunden. osu!player wird nun versuchen die Schriftart herunterzuladen und versucht diese zu installieren. Nachdem du auf Installieren gedrückt hast, starte den osu!player neu.
+Der osu!player konnte nicht die Schriftart runterladen, bitte prüfe ob du mit dem Internet verbunden bist.
+English.txt wurde nich im lang Ordner gefunden, ebenfalls konnte diese nicht heruntergeladen werden. Bitte installieren die English.txt über den osu!player Installer und prüfe ebenfalls, dass du mit dem Internet verbunden bist.
+osu!player läuft bereits
+osu!player läuft bereits auf diesen Computer. Prüfe über den Task-Manager ob osu!player läuft, wenn er nicht starten sollte, dann schließe den Player über den Task-Manager.
+Fehler beim starten
+Die Blacklist konnte nicht geladen werden, starte den osu!player bitte neu. Wenn das Problem weiter auftreten sollte, bitte melde dies im Forum/Discord.
+Sprachdatei nicht gefunden
+Die Sprachedatei '{0}' konnte nicht gefunden werden, wechsle zu Englisch
+Sprachdatei English nicht gefunden
+Die Sprache English wurde nicht gefunden, bitte installiere diese über den Installer. Möchtest du das Forum öffnen?
+Spache nicht unterstützt
+Deine Sprachedatei wird nicht in dieser Version unterstützt, bitte prüfe ob die Sprache vollständig ist. osu!player wird sich nun beenden und beim nächsten Start Englisch nutzen.
+Tippe zum suchen
+Einstellungen öffnen
+Playlist An-/Ausschalten
+osu!player minimieren
+Drücke hier um in den Fenster Modus zu wechseln, drücke erneut um wieder in den Vollbild Modus zu wechseln
+osu!player schließen
+Lautstärke
+Zufallswiedergabe An-/Ausschalten
+Wiederholung An-/Ausschalten
+Wiedergabegeschwindigkeit
+Öffne den Playlisteditor um Songs zu favorisieren
+Du kannst keine Songs favorisieren, wenn du keine Playlist ausgewählt hast, wo der Song hinzugefügt werden soll. Um das Problem zu lösen öffne den Playlistedior (Symbol mit den 4 balken und der Note und dann auf den Knopf). Dann wähle eine Playlist aus, wenn du keine Playlist auswählst, werden die Songs in deinen Favoriten hinzugefügt.
+Einstellungen
+Updates und Werkzeuge
+Hotkey Einstellungen
+Startsong
+Aller erster Song
+Zuletzt gespielter Song
+Zufälliger Song
+Bestimmter Song
+Deaktiviere Benarichtigungen
+Immer im Vordergrund
+Aktiviere OBS-Unterstütztung
+Aktiviere Audio-Spektrum
+Nutzername
+Entferne Nutzernamen
+Sprache
+Blacklist
+Songs geladen {0}
+Songordner {0}
+osu!player von {0}
+Auf Updates prüfen
+Spracheditor öffnen
+Aktuellen Song exportieren
+Alle Songs in Ordner exportieren
+Favoriten löschen
+Alles zurücksetzen
+Bist du sicher, dass du alles zurücksetzen möchtest? Wenn du fortfährst löscht du all deine erstellen Playlisten, Favoriten und den Großteil deiner Einstellungen. Nachdem neustart musst du dein Songsordner neu auswählen.
+Wenn den setzen deines Nutzernamen akzeptierst du, deinen zur Zeit gehörten Song an den osu!player server schickst, sowie deine Version. Wenn du das nicht willst drücke Nein und lass das Feld frei.
+Nutzername regestriert
+Nutzername exestiert schon
+Keine Sonderzeichen sind im Nutzernamen erlaubt
+Nutzername entfernt, du sendest keine Daten mehr an den osu!player server.
+Play/Pause
+Vorheriger Song
+Nächster Song
+Lautstärke hoch
+Lautstärke runter
+Protipp: Halte ALT gedrückt, wenn du ein Hotkey drückst! Sonst funktioniert es nicht.
+Playlist/Favoriten
+Playlist
+Playlistname
+Playlist hinzufügen
+Füge spielenden Song zu Playlist hinzu
+Ausgewählte Playlist löschen
+Playlist exestiert bereits
+Playlist {0} exestiert bereits. Bitte wähle einen anderen Namen, für deine neue Playlist.
+Der Name ist nicht gültig. Deine Playlist sollte mindestens einen Buchstaben enthalten.
+Du kannst nicht die Favoritenplaylist löschen.
+Bist du sicher, dass du die {0} Playlist löschen willst? \n\nDas kann nicht rückgängig gemacht werden.
+osu!player erfolgreich geupdatet
+osu!player wurde erfolgreich auf version {0} geupdated! Möchtest du die Patchnotes öffnen?
+osu!player ist auf den neusten Stand
+Update verfügbar
+Ein Update für den osu!player is verfügbar, möchtest du diese runterladen?
